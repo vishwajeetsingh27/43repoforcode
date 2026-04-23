@@ -2,5 +2,5 @@ this is my first manual code
 i wish to send to github
 
 
-git config --global user.name "pradeep"
-git config --global user.email pradeep@gmail.com
+git config --global user.name "vishwajeet"
+git config --global user.email "vishwajeet@gmail.com"
